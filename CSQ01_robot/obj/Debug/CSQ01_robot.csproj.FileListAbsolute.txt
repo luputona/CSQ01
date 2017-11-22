@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\bin\Debug\CSQ01_robot.exe
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\bin\Debug\CSQ01_robot.pdb
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\obj\Debug\CSQ01_robot.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\obj\Debug\CSQ01_robot.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\obj\Debug\CSQ01_robot.exe
+C:\Users\4kigs_09\Documents\CSQ01\CSQ01_robot\obj\Debug\CSQ01_robot.pdb
