@@ -17,6 +17,7 @@ class Robot //콜백
 }
 class Joystic
 {
+    Robot ctrl = new Robot();
     public string Input(string input)
     {
         return input;
@@ -45,8 +46,7 @@ class Joystic
     }
 
     public void Controller(string input)
-    {
-        Robot ctrl = new Robot();
+    {        
         ctrl.Dir(input, new GetControlDelegate(this.Input));
     }
 }

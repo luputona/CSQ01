@@ -1,0 +1,5 @@
+C:\Users\4kigs_09\Documents\CSQ01\Airplane\bin\Debug\Airplane.exe
+C:\Users\4kigs_09\Documents\CSQ01\Airplane\bin\Debug\Airplane.pdb
+C:\Users\4kigs_09\Documents\CSQ01\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CSQ01\Airplane\obj\Debug\Airplane.exe
+C:\Users\4kigs_09\Documents\CSQ01\Airplane\obj\Debug\Airplane.pdb

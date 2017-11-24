@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSQ01_robot", "CSQ01_robot.csproj", "{FB89B260-CD01-4CA5-B733-F44E81C43562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airplane", "..\Airplane\Airplane.csproj", "{6A7D7EAA-2113-4550-AB1E-DB1F0EECC22C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB89B260-CD01-4CA5-B733-F44E81C43562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB89B260-CD01-4CA5-B733-F44E81C43562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB89B260-CD01-4CA5-B733-F44E81C43562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7D7EAA-2113-4550-AB1E-DB1F0EECC22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7D7EAA-2113-4550-AB1E-DB1F0EECC22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7D7EAA-2113-4550-AB1E-DB1F0EECC22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7D7EAA-2113-4550-AB1E-DB1F0EECC22C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
